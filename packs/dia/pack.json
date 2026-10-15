@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "id": "dia",
+  "displayName": "다이아 서버",
+  "minecraft": {
+    "version": "26.3"
+  },
+  "loader": {
+    "type": "fabric",
+    "version": "0.19.5"
+  },
+  "server": {
+    "name": "다이아 서버",
+    "address": "dia.ckam.store"
+  },
+  "files": [
+    {
+      "folder": "mods",
+      "path": "mods/cloth-config-fabric-26.3.159.jar",
+      "fileName": "cloth-config-fabric-26.3.159.jar",
+      "sizeBytes": 1135009,
+      "revision": 1
+    },
+    {
+      "folder": "mods",
+      "path": "mods/entityculling-fabric-1.11.3-mc26.3.jar",
+      "fileName": "entityculling-fabric-1.11.3-mc26.3.jar",
+      "sizeBytes": 1508547,
+      "revision": 1
+    },
+    {
+      "folder": "mods",
+      "path": "mods/fabric-api-0.163.0-mc26.3.jar",
+      "fileName": "fabric-api-0.163.0-mc26.3.jar",
+      "sizeBytes": 1774707,
+      "revision": 1
+    },
+    {
+      "folder": "mods",
+      "path": "mods/ferritecore-9.0.0-fabric.jar",
+      "fileName": "ferritecore-9.0.0-fabric.jar",
+      "sizeBytes": 72677,
+      "revision": 1
+    },
+    {
+      "folder": "mods",
+      "path": "mods/imblocker-7.3.2-fabric-mc26.1plus.jar",
+      "fileName": "imblocker-7.3.2-fabric-mc26.1plus.jar",
+      "sizeBytes": 183555,
+      "revision": 1
+    },
+    {
+      "folder": "mods",
+      "path": "mods/iris-fabric-1.11.7-mc26.3.jar",
+      "fileName": "iris-fabric-1.11.7-mc26.3.jar",
+      "sizeBytes": 2850938,
+      "revision": 1
+    },
+    {
+      "folder": "mods",
+      "path": "mods/koreanify-fabric-0.2.0-mc26.3.jar",
+      "fileName": "koreanify-fabric-0.2.0-mc26.3.jar",
+      "sizeBytes": 87896,
+      "revision": 1
+    },
+    {
+      "folder": "mods",
+      "path": "mods/lithium-fabric-0.26.2-mc26.3.jar",
+      "fileName": "lithium-fabric-0.26.2-mc26.3.jar",
+      "sizeBytes": 914543,
+      "revision": 1
+    },
+    {
+      "folder": "mods",
+      "path": "mods/plasmovoice-fabric-26.3-2.1.17.jar",
+      "fileName": "plasmovoice-fabric-26.3-2.1.17.jar",
+      "sizeBytes": 12248022,
+      "revision": 1
+    },
+    {
+      "folder": "mods",
+      "path": "mods/sodium-extra-fabric-0.9.4-mc26.3.jar",
+      "fileName": "sodium-extra-fabric-0.9.4-mc26.3.jar",
+      "sizeBytes": 465553,
+      "revision": 1
+    },
+    {
+      "folder": "mods",
+      "path": "mods/sodium-fabric-0.9.2-mc26.3.jar",
+      "fileName": "sodium-fabric-0.9.2-mc26.3.jar",
+      "sizeBytes": 1908068,
+      "revision": 1
+    },
+    {
+      "folder": "shaderpacks",
+      "path": "shaderpacks/BSL_v10.0.zip",
+      "fileName": "BSL_v10.0.zip",
+      "sizeBytes": 1121678,
+      "revision": 1
+    },
+    {
+      "folder": "shaderpacks",
+      "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip",
+      "fileName": "ComplementaryReimagined_r5.6.1.zip",
+      "sizeBytes": 500696,
+      "revision": 1
+    },
+    {
+      "folder": "shaderpacks",
+      "path": "shaderpacks/Ebin-Resurrected-v1.5.6.zip",
+      "fileName": "Ebin-Resurrected-v1.5.6.zip",
+      "sizeBytes": 12666345,
+      "revision": 1
+    },
+    {
+      "folder": "shaderpacks",
+      "path": "shaderpacks/astralex-lexboost-v93.0.zip",
+      "fileName": "astralex-lexboost-v93.0.zip",
+      "sizeBytes": 3184524,
+      "revision": 1
+    },
+    {
+      "folder": "shaderpacks",
+      "path": "shaderpacks/photon_v1.2a.zip",
+      "fileName": "photon_v1.2a.zip",
+      "sizeBytes": 3737845,
+      "revision": 1
+    }
+  ]
+}
